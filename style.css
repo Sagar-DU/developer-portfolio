@@ -37,3 +37,13 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.second-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.second {
+    padding-right: 150px;
+}
